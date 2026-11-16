@@ -956,7 +956,7 @@ $ overline(A inter B)=overline(A) union overline(B) $
 #h(2em) 因此，下列说法表达相同的条件关系：\
 #align(center)[
   $P$是$Q$的充要条件($P<=>Q$)\
-  复合命题“$P$ 当且仅当 $Q$”恒为真（$models #h(-0.15em) P <-> Q$）\
+  复合命题“$P$ 当且仅当 $Q$”为真（$v(P <-> Q)=T$）\
   $P$与$Q$等价
 ]
 == 量词、变量范围与命题的否定
